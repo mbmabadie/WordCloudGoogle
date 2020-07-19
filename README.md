@@ -7,3 +7,4 @@
 <br>• Count the frequencies.
 <br>• Ignore uninteresting or irrelevant words.
   </p>
+<img src="py.jpg" alt="word cloud using python" >
